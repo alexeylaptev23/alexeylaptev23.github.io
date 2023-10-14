@@ -47,7 +47,7 @@
   opacity: 1;
   z-index: 0;
   /* transform: translateY(-550px); */
-  transform: translate(-40px, -400px);
+  transform: translate(-20px, -350px);
 }
 .box-body:hover .box-lid {
   -webkit-animation: box-lid 1s forwards ease-in-out;
